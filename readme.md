@@ -5,10 +5,13 @@ This project implements a full data pipeline that performs data extraction, clea
 **Project Structure**
 
 The project includes the following stages:
-	1.	Data Extraction - Extracts business and category information.
+	1.	Data Extraction - Extracts business and category information.<br>
 	2.	Data Cleaning I - Cleans and preprocesses the extracted data for web scraping.
+    <br>
 	3.	Data Scraping - Scrapes user data from the web across various platforms.
+    <br>
 	4.	Data Cleaning II - Cleans and processes the scraped data to prepare it for analysis.
+    <br>
 	5.	Data Analysis - (Future phase) Prepares data insights and visualizations.
 
 **Folders and Contents**
