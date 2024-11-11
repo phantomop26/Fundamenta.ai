@@ -1,8 +1,8 @@
-Here’s a sample README for your project on GitHub:
-
-Yelp Review Scraper
+**Yelp Review Scraper**
 
 This project is a Node.js script using Puppeteer to scrape reviews and hotel details from Yelp for a list of specified places. The script gathers detailed information about each place, including name, rating, price, address, category, and user reviews. Reviews are saved as JSON files, with one file per place.
+
+**Extraction Time: 11 Seconds / Page**
 
 Features
 
