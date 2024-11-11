@@ -83,5 +83,3 @@ Notes
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-This README covers the setup, usage, and output structure for your Google Maps scraper script. Let me know if you need additional modifications!
