@@ -12,7 +12,7 @@ The project includes the following stages:
     <br>
 	4.	Data Cleaning II - Cleans and processes the scraped data to prepare it for analysis.
     <br>
-	5.	Data Analysis - (Future phase) Prepares data insights and visualizations.
+	5.	Data Analysis - Prepares data insights and visualizations.
 
 **Folders and Contents**
 
