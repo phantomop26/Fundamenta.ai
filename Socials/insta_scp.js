@@ -88,8 +88,8 @@ async function scrapeInstagramProfile(page, url) {
   const page = await browser.newPage();
 
   // Log in once
-  const USERNAME = 'buddynyu';
-  const PASSWORD = 'Sahil@1082';
+  const USERNAME = '';
+  const PASSWORD = '';
   await loginInstagram(page, USERNAME, PASSWORD);
 
   const results = [];
